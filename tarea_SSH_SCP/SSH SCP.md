@@ -1,7 +1,7 @@
 1. Para empezar esta práctica tendremos que **importar** una máquina Ubuntu
 2. Después habrá que clonar esta máquina mediante **clonación enlazada** a una máquina con nombre "A"
 Hacemos lo mismo pero esta vez clonamos "A" a una máquina con nombre "B"
-    ![Clonado](/imagenes/CLON.png)
+    ![Clonado](https://github.com/Brskex/TareasFH/blob/main/tarea_SSH_SCP/imagenes/CLON.png)
 Hay que generar nuevas **direcciones MAC** para todos los adaptadores Red
 Tendremos que configurar los parámetros de red:
     En el A: Hay que configurar el adaptador 1 a NAT y el adaptador 2 a red interna
